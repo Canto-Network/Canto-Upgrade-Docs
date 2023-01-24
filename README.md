@@ -23,7 +23,7 @@
 # should be v5.0.0
 cantod version
 
-# commit should be "4a766e798a04601e0f1838e44603629689e0acd9"
+# commit should be "869fec6044ce3c3dc5e41f0fbee88a230d813008"
 cantod version --long
 ```
 
