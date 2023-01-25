@@ -10,7 +10,7 @@
 # Upgrade instructions
 ### 1. Vote on software upgrade proposal
 1. Proposal will be submitted at 11am EST on Wednesday Jan. 25th
-2. If successful, proposal will halt chain at block `2668948`, at approximately 12:10pm EST on same day
+2. If successful, proposal will halt chain at block `2669495`, at approximately 12:10pm EST on same day
 
 ### 2. When chain halts for upgrade, pull and install new binary
 1. `cd Canto`
